@@ -18,7 +18,7 @@ I'm interested in finding an internship or junior position related to C/C++ or C
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-### I have a basic understanding
+### Basic understanding
 ![HTML5](https://img.shields.io/badge/HTML5-%231572B6.svg?color=red&style=for-the-badge&logo=HTML5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%231572B6.svg?color=orange&style=for-the-badge&logo=JavaScript&logoColor=white)
