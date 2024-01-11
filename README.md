@@ -23,16 +23,15 @@ I'm interested in finding an internship or junior position related to C/C++ or C
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%231572B6.svg?color=orange&style=for-the-badge&logo=JavaScript&logoColor=white)
 
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+<!--
 ### 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Afargy&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Afargy&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Afargy&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
-
-<!--
 ### 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Afargy&theme=radical&no-frame=true&no-bg=true&margin-w=4)
 
