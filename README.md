@@ -2,7 +2,7 @@
 
 ### 💫 About Me:
 I am passionate about programming and strive to advance in this field. <br>
-I'm currently studying at School 21, actively learning improving my skills in C/C++.<br>
+I'm currently studying at [School 21](https://21-school.ru/), actively learning improving my skills in C/C++.<br>
 I'm interested in finding an internship or junior position related to C/C++ or C-family language.<br>
 
 ### 💻 Tech Stack:
